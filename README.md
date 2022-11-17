@@ -1,1 +1,1 @@
-# hackerrank1_java
+# to print sum of numbers
